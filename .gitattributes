@@ -1,0 +1,5 @@
+*.otf binary
+*.woff2 binary
+*.css text eol=lf
+*.md text eol=lf
+*.txt text eol=lf

@@ -1,0 +1,38 @@
+/*
+ * Undoless Sans / Undoless Serif — font 0.109, package 0.1.9
+ * SIL Open Font License 1.1.
+ * Copyright © KERIS. Symbol layout components adapted from Pretendard.
+ * See fonts/experimental/OFL.txt, Pretendard-LICENSE.txt and NOTICE.txt.
+ */
+
+@font-face {
+  font-family: "Undoless Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./fonts/experimental/UndolessSans-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Undoless Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./fonts/experimental/UndolessSans-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Undoless Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./fonts/experimental/UndolessSerif-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Undoless Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./fonts/experimental/UndolessSerif-Bold.woff2") format("woff2");
+}
